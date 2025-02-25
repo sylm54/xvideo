@@ -1,0 +1,21 @@
+{
+  "name": "XVideos",
+  "description": "XVideo plugin",
+  "author": "",
+  "authorUrl": "",
+
+  "sourceUrl": "https://raw.githubusercontent.com/sylm54/xvideo/refs/heads/main/config.json",
+  "repositoryUrl": "https://github.com/sylm54/xvideo",
+  "scriptUrl": "./script.js",
+  "version": 1,
+
+  "iconUrl": "./logo.png",
+  "id": "31f165a3-90a3-40b0-b3ff-9e9244d8c160",
+
+  "scriptSignature": "",
+  "scriptPublicKey": "",
+  "packages": ["Http", "DOMParser"],
+
+  "allowEval": false,
+  "allowUrls": ["everywhere"]
+}
